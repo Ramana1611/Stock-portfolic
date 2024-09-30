@@ -1,0 +1,4 @@
+### Instructions for Use
+- Save the Python code in a file named `stock_portfolio_tracker.py`.
+- Create a README.md file with the provided content.
+- Make sure to install the required libraries and replace the API key before running the script. You can modify the main section to add your own stocks!
